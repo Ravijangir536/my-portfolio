@@ -23,7 +23,7 @@ const Home: React.FC = () => {
               I’m a Web Developer with a passion for creating impactful and engaging digital experiences.
             </p>
             <a
-              href="/path-to-your-resume.pdf" // Replace with your resume URL
+              href="https://drive.google.com/file/d/12Of2MxZl6RuyeaQOTHOAjxg9RKL3gKIQ/view?usp=sharing" // Replace with your resume URL
               download
               className="inline-block px-6 py-3 bg-gray-200 text-gray-700 font-semibold rounded-lg shadow-neumorphism hover:bg-gray-300 transition-all duration-300"
             >
