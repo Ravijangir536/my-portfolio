@@ -9,7 +9,7 @@ const Home: React.FC = () => {
           <div className=" rounded-full p-4">
             <img
               className="rounded-full w-64 h-64 object-cover neumorphism-container"
-              src="https://img.freepik.com/free-vector/businessman-character-avatar-isolated_24877-60111.jpg?size=338&ext=jpg&ga=GA1.1.2008272138.1725580800&semt=ais_hybrid" // Replace with your photo URL
+              src="https://maanox.krishanmaan.com/assets/ravi.png" // Replace with your photo URL
               alt="Your Photo"
             />
           </div>
